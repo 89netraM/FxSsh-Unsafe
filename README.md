@@ -1,5 +1,7 @@
-## FxSsh
-FxSsh is a lightweight [SSH](http://en.wikipedia.org/wiki/Secure_Shell) server side application as SSH reinforcement of [GitCandy](https://github.com/Aimeast/GitCandy). 
+## FxSsh – Unsafe
+⚠️ All user authentication is disabled ⚠️
+
+FxSsh is a lightweight [SSH](http://en.wikipedia.org/wiki/Secure_Shell) server side application as SSH reinforcement of [GitCandy](https://github.com/Aimeast/GitCandy).
 
 ---
 ### Nuget

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FxSsh\FxSsh.csproj" />
+    <ProjectReference Include="..\FxSsh\FxSsh-Unsafe.csproj" />
   </ItemGroup>
 
 </Project>

@@ -12,7 +12,7 @@ namespace FxSsh.Messages.Userauth
 
         protected override void OnGetPacket(SshDataWorker writer)
         {
-            writer.Write("password,publickey", Encoding.ASCII);
+            writer.Write("none", Encoding.ASCII);
             writer.Write(false);
         }
     }
